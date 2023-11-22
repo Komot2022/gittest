@@ -1,4 +1,5 @@
-#EasyShop Database
+# EasyShop Database
+
 Overview
 The EasyShop database is designed to manage and organize data for an ecommerce platform. 
 It serves as the backbone for storing information about products, customers, orders, and more. 
